@@ -1,7 +1,0 @@
-{
-  name: "freebuff2api",
-  main: "worker.js",
-  compatibility_date: "2026-09-17",
-  vars: {
-    FREEBUFF_API_KEY: "freebuff-default-key"
-  }
